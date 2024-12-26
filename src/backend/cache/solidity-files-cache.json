@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "M:\\OneDrive - CEPSA EXPLORATION PRODUCTION\\1.0 NEW PERSONAL\\0.0 PROGRAMACIÓN\\CODE\\Bootcamp\\Marketplace\\src\\backend\\contracts\\Marketplace.sol": {
-      "lastModificationDate": 1734955256422,
-      "contentHash": "da4a4f507d77e87e527c1795d1cc70c6",
+      "lastModificationDate": 1735123103401,
+      "contentHash": "c58fd8a41c4c4e1e4debbb34c0240f19",
       "sourceName": "src/backend/contracts/Marketplace.sol",
       "solcConfig": {
         "version": "0.8.4",
@@ -441,8 +441,8 @@
       ]
     },
     "M:\\OneDrive - CEPSA EXPLORATION PRODUCTION\\1.0 NEW PERSONAL\\0.0 PROGRAMACIÓN\\CODE\\Bootcamp\\Marketplace\\src\\backend\\contracts\\NFT.sol": {
-      "lastModificationDate": 1734955263579,
-      "contentHash": "d7f37b30d0692213c42237d98710203b",
+      "lastModificationDate": 1734966620539,
+      "contentHash": "b22ca49244d137a6990a1eb2b6baf9aa",
       "sourceName": "src/backend/contracts/NFT.sol",
       "solcConfig": {
         "version": "0.8.4",
